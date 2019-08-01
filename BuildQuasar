@@ -1,0 +1,16 @@
+Build Quasar
+
+quasar build
+cd c:\Users\Fernanda\quasar\dist\spa
+
+quasar serve
+
+https://surge.sh
+Faz publicações através da linha de comando
+
+npm install --global surge
+
+Acessar via console o local dos arquivos que deverão ser publicados e digitar "surge"
+domain: algumacoisa.surge.sh
+
+E pronto, já pode acessar pelo endereço algumacoisa.surge.sh
